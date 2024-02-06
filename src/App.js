@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 //assets
 import logo from "./images/logoVertical.png";
 
 //Components
 import ProgressBar from "./components/ProgressBar/ProgressBar";
-import { Home } from "./pages/Home/Home";
+// import { Home } from "./pages/Home/Home";
 import Contact from "./pages/contact/Contact";
 
 
