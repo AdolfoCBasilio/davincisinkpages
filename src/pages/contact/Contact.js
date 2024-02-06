@@ -1,8 +1,8 @@
 import React from 'react'
 
+import whatsappLogo from '../../images/icons8-whatsapp (1).svg'
 // import davinciLogo from '../../images/Group 74.svg'
 // import tiktokLogo from '../../images/icons8-tiktok (1).svg'
-import whatsappLogo from '../../images/icons8-whatsapp (1).svg'
 import facebookLogo from '../../images/icons8-facebook.svg'
 import instagramLogo from '../../images/icons8-instagram.svg'
 import pinterestLogo from '../../images/icons8-pinterest.svg'
