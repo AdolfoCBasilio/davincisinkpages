@@ -17,7 +17,7 @@ const Contact = () => {
       <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
         <h1>Da Vinci's Ink</h1>
         <ul>
-          <Enlace url="https://walink.co/85f91a" texto="WhatsApp" imagenUrl={whatsappLogo} />
+          <Enlace url="https://wa.me/2321749491/?text=%C2%A1Hola%21%20Me%20gustar%C3%ADa%20agendar%20una%20cita%20para%20mi%20siguiente%20tatuaje%20contigo%E2%9A%9C%EF%B8%8F" texto="WhatsApp" imagenUrl={whatsappLogo} />
           <Enlace url="https://www.facebook.com/profile.php?id=61553589208270" texto="Facebook" imagenUrl={facebookLogo} />
           <Enlace url="https://www.instagram.com/da_vincis_ink/" texto="Instagram" imagenUrl={instagramLogo} />
           <Enlace url="https://www.pinterest.com.mx" texto="Busca diseños aqui" imagenUrl={pinterestLogo} />
